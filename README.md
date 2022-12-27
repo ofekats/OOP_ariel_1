@@ -7,19 +7,13 @@ o We will add tracking of the size of the object in the Heap.
 ## How to use our code
 Download from github of the folder ""  
 The code files:  
-  o ConcreteMember.java
-  
-  o GroupAdmin.java
-  
-  o UndoableStringBuilder.java
-  
-  o Member.java
-  
-  o Sender.java
-  
-  o JvmUtilities.java
-
-The test files:
-  o Tests.java
-  o JvmUtilities.java
+  o ConcreteMember.java  
+  o GroupAdmin.java  
+  o UndoableStringBuilder.java  
+  o Member.java  
+  o Sender.java  
+  o JvmUtilities.java  
+The test files:  
+  o Tests.java  
+  o JvmUtilities.java  
    
