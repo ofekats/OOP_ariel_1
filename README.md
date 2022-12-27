@@ -8,6 +8,7 @@ which we built in a previous assignment:
 ## How to use our code
 Download from github of the folder ""
 The code files:
+
    o ConcreteMember.java
    o GroupAdmin.java
    o UndoableStringBuilder.java
